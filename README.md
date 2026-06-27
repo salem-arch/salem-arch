@@ -8,8 +8,7 @@ I am a Computer Science & Information Technology student with a strong passion f
 - 🛠️ Experienced in full-stack development, database optimization, and low-level programming
 
 ## 🛠️ Tech Stack & Knowledge
-- **Languages:** PHP, SQL, Java, C 
-- **Frameworks & Tools:** Bootstrap, Git, Linux
+- **Languages:** PHP, SQL, Java, C , HTML
 - **Core Knowledge:** Database Normalization, Graph Theory, System & Computer Architecture
 
 Hi there, I'm Madiou Salem! 👋
@@ -22,12 +21,11 @@ I am a Computer Science & Information Technology student with a strong passion f
 - 🛠️ Experienced in full-stack development, database optimization, and low-level programming
 
 🛠️ Tech Stack & Knowledge:
-- Languages: PHP, SQL, Java, C, x86 Assembly
-- Frameworks & Tools: Bootstrap, Git, Linux
+- Languages: PHP, SQL, Java, C, HTML
 - Core Knowledge: Database Normalization, Graph Theory, System & Computer Architecture
 
 📈 Current Projects:
-- 🏨 Orcinus Hotel: Full-stack management software (UML design, functional documentation, and backend implementation).
+- 🏨 Hotel booking website: Full-stack management software (UML design, functional documentation, and backend implementation).
 - 🎓 Admin Management Panel: A responsive student database dashboard built with PHP and Bootstrap.
 
 ## 🌐 Socials:
