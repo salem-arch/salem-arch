@@ -8,16 +8,27 @@ I am a Computer Science & Information Technology student with a strong passion f
 - 🛠️ Experienced in full-stack development, database optimization, and low-level programming
 
 ## 🛠️ Tech Stack & Knowledge
-- **Languages:** PHP, SQL, Java, C, x86 Assembly
+- **Languages:** PHP, SQL, Java, C 
 - **Frameworks & Tools:** Bootstrap, Git, Linux
 - **Core Knowledge:** Database Normalization, Graph Theory, System & Computer Architecture
 
-## 📈 Current Projects
-- 🏨 **Hotel:** Full-stack management software (UML design, functional documentation, and backend implementation).
-- 🎓 **Admin Management Panel:** A responsive student database dashboard built with PHP and Bootstrap.
-# 💫 About Me:
-# Hi there, I'm Madiou Salem! 👋<br><br>I am a Computer Science & Information Technology student with a strong passion for Data Science and Artificial Intelligence. I love exploring system architectures, building backend solutions, and transforming data into insights.<br><br>## 🚀 About Me<br>- 🎓 Studying Information Technology & Computer Science<br>- 💡 Passionate about Artificial Intelligence, Data Science, and Software Architecture<br>- 🛠️ Experienced in full-stack development, database optimization, and low-level programming<br><br>## 🛠️ Tech Stack & Knowledge<br>- **Languages:** PHP, SQL, Java, C, x86 Assembly<br>- **Frameworks & Tools:** Bootstrap, Git, Linux<br>- **Core Knowledge:** Database Normalization, Graph Theory, System & Computer Architecture<br><br>## 📈 Current Projects<br>- 🏨 **Orcinus Hotel:** Full-stack management software (UML design, functional documentation, and backend implementation).<br>- 🎓 **Admin Management Panel:** A responsive student database dashboard built with PHP and Bootstrap.
+Hi there, I'm Madiou Salem! 👋
 
+I am a Computer Science & Information Technology student with a strong passion for Data Science and Artificial Intelligence. I love exploring system architectures, building backend solutions, and transforming data into insights.
+
+💫 About Me:
+- 🎓 Studying Information Technology & Computer Science
+- 💡 Passionate about Artificial Intelligence, Data Science, and Software Architecture
+- 🛠️ Experienced in full-stack development, database optimization, and low-level programming
+
+🛠️ Tech Stack & Knowledge:
+- Languages: PHP, SQL, Java, C, x86 Assembly
+- Frameworks & Tools: Bootstrap, Git, Linux
+- Core Knowledge: Database Normalization, Graph Theory, System & Computer Architecture
+
+📈 Current Projects:
+- 🏨 Orcinus Hotel: Full-stack management software (UML design, functional documentation, and backend implementation).
+- 🎓 Admin Management Panel: A responsive student database dashboard built with PHP and Bootstrap.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/salem_mdu?igsh=MXBkdnpjZ2g2NWU3Nw%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/salem-madiou-208451368) 
